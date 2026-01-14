@@ -51,6 +51,11 @@ node_modules/
 .env
 #.envファイルを無視
 
+■public←→privateの変更
+https://qiita.com/HyunwookPark/items/1d24972dd71612eb81c9
+→ denger zoneから設定できるらしい。
+  まだ必要じゃなさそうなので詳しくは見ていない。
+
 ■増渕が作ったローカルリポジトリ(プライベート)のもろもろ
 https://github.com/Zafren/zafren_playground
 上記の場合はZafrenが作ったzafren_playgroundリポジトリにアクセスされる
